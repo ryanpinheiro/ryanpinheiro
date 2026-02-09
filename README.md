@@ -1,46 +1,77 @@
-### 👋 Olá! Eu sou o Ryan Pinheiro
+<h1 align="center">👋 Olá, eu sou o Ryan Pinheiro</h1>
 
-🎮 Desenvolvedor focado em **Games** com **Unity**, **C#** e **C++**  
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Unity+%26+C%23;Criando+sistemas+modulares+para+jogos;Foco+em+Game+Systems+e+Performance"
+  />
+</p>
+
+---
+
+## 🎮 Sobre mim
+
+Sou **Desenvolvedor de Jogos** focado em **Unity**, com forte interesse em:
+
+- 🧩 **Sistemas de Interação Modulares**
+- 🏗️ **Arquitetura de Software aplicada a Games**
+- 🚀 **Otimização, escalabilidade e boas práticas**
+- 🛒 Criação de **assets reutilizáveis** para a Unity Asset Store
+
 🎓 Graduando em **Ciência da Computação**  
-🚀 Explorando **Desenvolvimento de Jogos**, **Sistemas de Interação**, e **Ferramentas para Game Dev**  
-📚 Atualmente aprendendo **Arquitetura de Software**, **Boas Práticas de Programação** e **Otimização de Jogos**  
-💡 Gosto de criar projetos próprios do zero para estudar e compartilhar conhecimento
+💡 Gosto de criar projetos do zero, evoluir versões (1.0 → 1.1 → 2.0) e documentar bem.
 
 ---
 
-### 📈 Minhas estatísticas no GitHub
+## 🧠 Tecnologias & Ferramentas
+
+### 🎮 Game Dev
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🧩 Backend / Scripts
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WSL](https://img.shields.io/badge/WSL-0D1117?style=for-the-badge)
+
+---
+
+## 📌 Projetos em Destaque
+
+🎯 **Universal Interaction System (Unity)**  
+Sistema modular de interação com:
+- Portas (normais, trancadas, com chave, alavanca)
+- Baús com animação
+- Sistema de diálogo expansível
+- Arquitetura pensada para Asset Store
+
+> 🔧 Em constante evolução (v1.0 → v1.1 → v2.0)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/ryanpinheiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanpinheiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpinheiro&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ryanpinheiro&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpinheiro&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-### 🛠️ Tecnologias que uso
+## 📫 Vamos nos conectar
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ryan-Unity" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg">
-  <img align="center" alt="Ryan-C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Ryan-C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Ryan-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ryan-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-</div>
-
----
-
-### 📫 Vamos nos conectar
-
-<div> 
-  <a href = "mailto:gabrielryan024@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/ryan-pinheiro-3915a0207/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
+<a href="mailto:gabrielryan024@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ryan-pinheiro-3915a0207/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ---
 
-✨ *“A melhor forma de aprender é criar!”*
+✨ *“A melhor forma de aprender é criar — e refatorar depois.”*
