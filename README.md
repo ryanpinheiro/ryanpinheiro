@@ -1,9 +1,7 @@
-<h1 align="center">👋 Ryan Pinheiro</h1>
+<h1 align="center">🎮 Ryan Pinheiro</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Game+Developer+%7C+Unity+%26+C%23;Criando+sistemas+modulares+para+jogos;Arquitetura+de+Software+aplicada+a+Games;Game+Dev+%2B+Backend+%2B+IA"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Game+Developer+%7C+Unity+%26+C%23;Game+Systems+%26+Software+Architecture;Tools+%26+Frameworks+for+Games;Leveling+Up+Every+Day" />
 </p>
 
 <p align="center">
@@ -12,40 +10,41 @@
 
 ---
 
-## 🎮 Quem sou eu
+## 🧩 Player Profile
 
-Sou **Desenvolvedor de Jogos** com foco em **Unity**, especializado em:
+🎮 **Role:** Game Developer  
+🛠️ **Focus:** Game Systems, Architecture & Tools  
+🎯 **Current Phase:** Building knowledge, tools and internal frameworks  
 
-- 🧩 **Sistemas de Interação Modulares**
-- 🏗️ **Arquitetura de Software aplicada a Games**
-- 🚀 **Performance, escalabilidade e organização de código**
-- 🛒 Desenvolvimento de **assets reutilizáveis** para Unity Asset Store
-- 🤖 Integração de **Backend e IA** para automações e sistemas inteligentes
+Sou desenvolvedor focado em **Unity**, com forte interesse em **arquitetura de software aplicada a jogos**, criação de **sistemas modulares**, e desenvolvimento de **ferramentas reutilizáveis**.
 
-🎓 Graduando em **Ciência da Computação**  
-🧠 Mentalidade de produto: versão 1.0 → 1.1 → 2.0  
-💡 Aprendo criando, errando e refatorando.
+Atualmente estou aprofundando conhecimentos em:
+- Estruturação de sistemas escaláveis
+- Boas práticas de código para jogos
+- Performance, organização e manutenção de projetos
+- Integração de backend e automações quando necessário
 
 ---
 
-## 🧠 Stack Tecnológica Completa
+## 🧠 Tech Stack
 
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🧩 Backend & APIs
+### 🧩 Programming & Architecture
+![OOP](https://img.shields.io/badge/OOP-Design-blue?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-7AA2F7?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-Architecture-4B9CD3?style=for-the-badge)
+
+### ⚙️ Backend & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 IA & Automação
-![OpenAI](https://img.shields.io/badge/IA-OpenAI-black?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-Automation-FF6D00?style=for-the-badge)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Data-blue?style=for-the-badge)
 
-### ⚙️ DevOps & Ambiente
+### ⚙️ Dev Environment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WSL](https://img.shields.io/badge/WSL-Windows%20Subsystem-0D1117?style=for-the-badge)
@@ -53,35 +52,20 @@ Sou **Desenvolvedor de Jogos** com foco em **Unity**, especializado em:
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🎯 Universal Interaction System (Unity)
-Sistema modular focado em **reutilização e expansão**, incluindo:
-
-- 🚪 Portas (normais, trancadas, com chave e alavanca)
-- 📦 Baús interativos com animação
-- 💬 Sistema de diálogo expansível
-- 🧠 Arquitetura preparada para novos módulos
-- 🛒 Pensado para publicação em Asset Store
-
-> 📌 Projeto ativo — melhorias contínuas e novas versões
-
----
-
-## 📊 GitHub Analytics
+## 🕹️ Player Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ryanpinheiro&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpinheiro&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanpinheiro&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanpinheiro&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanpinheiro&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanpinheiro&theme=tokyonight&utcOffset=-3"/>
 </div>
 
----
 
-## 📫 Contato
+
+## 📫 Contact
 
 <a href="mailto:gabrielryan024@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -91,5 +75,7 @@ Sistema modular focado em **reutilização e expansão**, incluindo:
 </a>
 
 ---
+
+🧠 *Build strong foundations now. Ship great games later.*
 
 ✨ *A melhor forma de aprender é criar — e a melhor forma de evoluir é refatorar.*
